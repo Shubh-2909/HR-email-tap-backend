@@ -40,37 +40,39 @@ function createEmailBody(name, companyName) {
 
     <p>We are delighted to invite your esteemed organization <strong>${escapeHtml(
       companyName
-    )}</strong> to participate in the <strong>Placement/Internship drive</strong> of the Institute for the academic session <strong>2024-2025</strong>.</p>
+    )}</strong> to participate in the <strong>Placement/Internship drive</strong> of the Institute for the academic session <strong>2025-2026</strong>.</p>
 
     <p>Established in <strong>2016</strong>, <strong>IIIT Ranchi</strong> is a premier institute of national importance, created as part of a visionary initiative by the <strong>Ministry of Education, Government of India</strong>. With a focus on bridging academia and industry, <strong>IIIT Ranchi</strong> has rapidly become a hub of innovation, excellence, and future-ready talent, shaping the next generation of engineers and technologists.</p>
 
     <p><strong>Student Availability:</strong></p>
     <ul>
-    <li><strong>Full-Time Employment (FTE):</strong> Starting <strong>June 2025</strong></li>
-    <li><strong>6-Month Internships:</strong> Starting <strong>January 2025</strong> (graduating in <strong>2025</strong>)</li>
-    <li><strong>Summer Internships:</strong> <strong>May to July 2025</strong> (graduating in <strong>2026</strong>)</li>
+    <li><strong>Full-Time Employment (FTE):</strong> Starting <strong>June 2026</strong>(graduating in <strong>2026</strong>)</li>
+    <li><strong>6-Month Internships:</strong> Starting <strong>January 2026</strong> (graduating in <strong>2026</strong>)</li>
+    <li><strong>Summer Internships:</strong> <strong>May to July 2026</strong> (graduating in <strong>2027</strong>)</li>
     </ul>
 
     <p><strong>Batch Demographics:</strong></p>
     <ul>
-    <li><strong>B.Tech. CSE:</strong> <strong>112 students</strong></li>
-    <li><strong>B.Tech. ECE:</strong> <strong>76 students</strong></li>
-    <li><strong>B.Tech. CSE (DS&AI):</strong> <strong>27 students</strong></li>
-    <li><strong>B.Tech. ECE (ES&IoT):</strong> <strong>28 students</strong></li>
+    <li><strong>B.Tech. CSE:</strong> <strong>115 students</strong></li>
+    <li><strong>B.Tech. ECE:</strong> <strong>80 students</strong></li>
+    <li><strong>B.Tech. CSE (DS&AI):</strong> <strong>30 students</strong></li>
+    <li><strong>B.Tech. ECE (ES&IoT):</strong> <strong>26 students</strong></li>
     </ul>
 
     <p><strong>Track Record:</strong><br>We take immense pride in our students’ achievements, including:</p>
     <ul>
     <li>Securing positions in top-tier companies like <strong>Google, Amazon, Atlassian, Adobe, Walmart, NVIDIA, Flipkart, Cisco, NASDAQ, MPL, AngleOne, OnePlus, Intuit, Productiv, Zeotap, Commvault, American Express, VMware, Tekion Corp, Infoedge, Rakuten</strong>, and more.</li>
-    <li>Excelling in prestigious global programs like <strong>Google Summer of Code (GSoC)</strong> and representing the institute as <strong>ICPC regionalists</strong>, with three teams making it to the regional in recent years.</li>
+    <li>Excelling in <strong>Google Summer of Code (GSoC'25)</strong> where <strong>two students from the 2026 batch and one student from the 2027 batch</strong>, were selected.</li>
+    <li>Representing the institute in <strong>ICPC 2025, with two teams securing ranks 48, 65, and 66</strong> in the <strong>Amritapuri and Kanpur regionals</strong>, continuing our legacy of strong competitive programming representation.</li>
     <li>Demonstrating exceptional skills in competitive programming, with numerous students earning <strong>Specialist, Expert, and Candidate Master</strong> rankings on <strong>Codeforces</strong>, and <strong>6-star, 5-star, and 4-star</strong> rankings on <strong>CodeChef</strong>.</li>
+    <li>Achieving outstanding placement outcomes — with the </strong> highest package for the batch graduating in 2025 reaching ₹54 LPA</strong>.</li>
     </ul>
 
-    <p>To facilitate your participation, we kindly request you to complete the attached <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc_6Lg_4bHE6tBhpR0Z16D4npfZqu_VT18dGfME9t0RtHkHmA/viewform">Job Notification Form</a></strong> with your requirements and offerings. The <strong>Training and Placement Cell</strong> will schedule the placement process as per the criteria outlined in our <strong>Placement Policy</strong>.</p>
+    <p>To facilitate your participation, we kindly request you to complete the attached <strong><a href="https://docs.google.com/forms/d/1hfOXH2ZgbHA-20RURhHVlyRShbmNa-scFIPS0yA-xIg/edit">Job Notification Form</a></strong> with your requirements and offerings. The <strong>Training and Placement Cell</strong> will schedule the placement process as per the criteria outlined in our <strong>Placement Policy</strong>.</p>
 
     <p>For more information about our programs, achievements, and policies, please refer to the attached <strong>Placement Brochure</strong>.</p>
 
-    <p><strong>Placement Brochure:</strong> <a href="https://drive.google.com/file/d/1HeDpDM6t7HhtUdp_VbLnostf-JB9S5-U/view">View Brochure</a><br>
+    <p><strong>Placement Brochure:</strong> <a href="https://drive.google.com/file/d/1TQQBsLv-MP_R7Mfso6lf3jnHy7649mbl/view?usp=sharing">View Brochure</a><br>
 
     <p>If you need any assistance or information, please reach out to our student coordinators. We'd be more than happy to assist.</p>
 
