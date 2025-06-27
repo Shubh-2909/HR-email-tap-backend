@@ -44,13 +44,6 @@ function createEmailBody(name, companyName) {
 
     <p>Established in <strong>2016</strong>, <strong>IIIT Ranchi</strong> is a premier institute of national importance, created as part of a visionary initiative by the <strong>Ministry of Education, Government of India</strong>. With a focus on bridging academia and industry, <strong>IIIT Ranchi</strong> has rapidly become a hub of innovation, excellence, and future-ready talent, shaping the next generation of engineers and technologists.</p>
 
-    <p><strong>Student Availability:</strong></p>
-    <ul>
-    <li><strong>Full-Time Employment (FTE):</strong> Starting <strong>June 2026</strong>(graduating in <strong>2026</strong>)</li>
-    <li><strong>6-Month Internships:</strong> Starting <strong>January 2026</strong> (graduating in <strong>2026</strong>)</li>
-    <li><strong>Summer Internships:</strong> <strong>May to July 2026</strong> (graduating in <strong>2027</strong>)</li>
-    </ul>
-
     <p><strong>Batch Demographics:</strong></p>
     <ul>
     <li><strong>B.Tech. CSE:</strong> <strong>115 students</strong></li>
@@ -122,7 +115,7 @@ app.post("/send-placement-email", async (req, res) => {
       from: `"IIIT Ranchi - Placement" <${process.env.EMAIL_ADDRESS}>`,
       to: email,
       subject:
-        "Invitation to Participate in IIIT Ranchi's 2024-25 Campus Placement Drive",
+        "Invitation to Participate in IIIT Ranchi's 2025-26 Campus Placement Drive",
       html: createEmailBody(name, companyName),
     };
 
